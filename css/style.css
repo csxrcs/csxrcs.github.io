@@ -322,6 +322,7 @@ main {
 }
 .nav-wrapper {
   padding: 0 25px;
+  font: "STZhongsong";
 }
 @media (max-width: 767px) {
   .nav-wrapper {
